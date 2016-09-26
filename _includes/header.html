@@ -1,0 +1,21 @@
+<nav class="navbar navbar-full navbar-dark bg-primary">
+  <button class="navbar-toggler hidden-sm-up"
+          id='nav-button'
+          type="button"
+          data-toggle="collapse"
+          data-target="#CollapsingNavbar"
+          aria-controls="CollapsingNavbar"
+          aria-expanded="false"
+          aria-label="Toggle navigation">
+    <i class='fa fa-navicon'></i>
+  </button><a class="navbar-brand" href="/">ODINE Toolbox</a>
+  <div class="collapse navbar-toggleable-xs" id="CollapsingNavbar">
+    <ul class="nav navbar-nav">
+      {% for tool in site.tools %}
+        <li class="nav-item">
+          <a class="nav-link" href="{{ tool.url }}">{{ tool.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</nav>

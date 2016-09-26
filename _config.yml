@@ -1,0 +1,10 @@
+---
+defaults:
+  - scope:
+      path: ''
+    values:
+      layout: default
+permalink: pretty
+collections:
+  tools:
+    output: true
