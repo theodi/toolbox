@@ -4,6 +4,11 @@ defaults:
       path: ''
     values:
       layout: default
+  - scope:
+      path: ''
+      type: tools
+    values:
+      layout: tool
 permalink: pretty
 collections:
   tools:

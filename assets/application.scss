@@ -11,3 +11,41 @@
 #CollapsingNavbar {
   clear: both;
 }
+
+body > .container {
+  padding-top: 40px;
+}
+
+.footer {
+  text-align: center;
+  a {
+    color: $brand-secondary;
+  }
+}
+
+nav {
+  background-color: $brand-primary;
+  a {
+    color: $brand-secondary;
+  }
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  line-height: 60px; /* Vertically center the text there */
+  background-color: $brand-primary;
+}
