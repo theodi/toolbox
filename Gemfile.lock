@@ -156,6 +156,7 @@ DEPENDENCIES
   bootstrap (~> 4.0.0.alpha4)
   compass
   github-pages
+  jekyll
   rake
 
 BUNDLED WITH
