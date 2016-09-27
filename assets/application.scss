@@ -3,9 +3,18 @@
 
 @import 'styles';
 
+a {
+  color: $brand-primary;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
 #nav-button {
   position: absolute;
   right: 10px;
+  color: white;
 }
 
 #CollapsingNavbar {
@@ -16,18 +25,36 @@ body > .container {
   padding-top: 40px;
 }
 
+$footer-height: 50px;
+
 .footer {
   text-align: center;
-  a {
-    color: $brand-secondary;
+  ul {
+    margin: 0px;
+  }
+
+  img {
+    max-height: 40px;
   }
 }
 
-nav {
+nav, footer {
   background-color: $brand-primary;
   a {
-    color: $brand-secondary;
+    color: white;
   }
+}
+
+.btn-primary {
+  background-color: $brand-primary;
+  border-color: $brand-primary;
+  color: $brand-secondary;
+}
+
+.btn-primary:hover {
+  background-color: $brand-secondary;
+  border-color: $brand-secondary;
+  color: $brand-primary;
 }
 
 /* Sticky footer styles
@@ -38,14 +65,13 @@ html {
 }
 body {
   /* Margin bottom by footer height */
-  margin-bottom: 60px;
+  margin-bottom: $footer-height;
 }
 .footer {
   position: absolute;
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
-  height: 60px;
-  line-height: 60px; /* Vertically center the text there */
-  background-color: $brand-primary;
+  height: $footer-height;
+  line-height: $footer-height; /* Vertically center the text there */
 }
