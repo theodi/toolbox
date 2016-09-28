@@ -25,19 +25,6 @@ body > .container {
   padding-top: 40px;
 }
 
-$footer-height: 50px;
-
-.footer {
-  text-align: center;
-  ul {
-    margin: 0px;
-  }
-
-  img {
-    max-height: 40px;
-  }
-}
-
 nav, footer {
   background-color: $brand-primary;
   a {
@@ -65,13 +52,32 @@ html {
 }
 body {
   /* Margin bottom by footer height */
-  margin-bottom: $footer-height;
 }
-.footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  /* Set the fixed height of the footer here */
-  height: $footer-height;
-  line-height: $footer-height; /* Vertically center the text there */
+
+footer {
+  color: #fff;
+  background-color: $brand-primary !important;
+  padding: 20px 0;
+
+  a {
+    color: #fff;
+    border-bottom: dotted 1px #fff;
+    text-decoration: none;
+
+    &:hover {
+      color: #fff;
+      border-bottom: solid 1px #fff;
+      text-decoration: none;
+    }
+  }
+
+  #odine-logo {
+    width: 250px;
+    margin-bottom: 10px;
+  }
+
+  #odi-labs {
+    width: 175px;
+    margin: -10px 0 0 -10px;
+  }
 }
