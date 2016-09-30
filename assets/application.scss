@@ -65,12 +65,17 @@ html {
 }
 body {
   /* Margin bottom by footer height */
+  margin-bottom: $footer-height;
+
 }
 
 footer {
   color: #fff;
   background-color: $brand-primary !important;
   padding: 20px 0;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 
   a {
     color: #fff;
