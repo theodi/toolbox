@@ -2,16 +2,23 @@
 layout: default
 ---
 
-<h1>
-  <a href='{{ page.site }}'>{{ page.title }}</a>
-</h1>
+<div class='container'>
+  <div class='row'>
+    <div class="col-lg-6">
+      <h1>
+        <a href='{{ page.site }}'>{{ page.title }}</a>
+      </h1>
 
-<h2>
-  {{ page.blurb }}
-</h2>
+      <h2>
+        {{ page.blurb }}
+      </h2>
 
-{{ page.content }}
+      <a href='{{ page.site }}' class='btn btn-primary'>See it in action <i class='fa fa-first-order'></i></a>
+      <a href='{{ page.code }}' class='btn btn-primary'>Get the code <i class='fa fa-github'></i></a>
+    </div>
 
-<a href='{{ page.code }}' class='btn btn-primary'>Get the code <i class='fa fa-github'></i></a>
-
-<hr />
+    <div class="col-lg-6">
+      <img src='/assets/screenshots/{{ page.screenshot }}' class='screenshot'>
+    </div>
+  </div>
+</div>

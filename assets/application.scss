@@ -44,6 +44,19 @@ nav, footer {
   color: $brand-primary;
 }
 
+.screenshot {
+  max-width: 100%;
+}
+
+.tool-card {
+  h2 {
+    font-size: 1.5em;
+  }
+  h3 {
+    font-size: 1em;
+  }
+}
+
 /* Sticky footer styles
 -------------------------------------------------- */
 html {

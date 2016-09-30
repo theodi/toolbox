@@ -3,6 +3,7 @@ title: Open Data Certificates
 site: https://certificates.theodi.org/en/
 code: https://github.com/theodi/open-data-certificate
 blurb: The mark of quality and trust for open data
+screenshot: certificates.png
 ---
 
 Hello? I've had a bit of a tumble.They just toss us away like yesterday's jam.Yeah, you do know how a button works don't you? No, not on clothes.It's my term for my time of the month. Oh. What time of the month? The weekend?I am a man, he's a man, we're men! Ok, tell me how your feeling. I feel delicate... and annoyed, and... I think I'm ugly.Hello, IT. Have you tried forcing an unexpected reboot?

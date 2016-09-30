@@ -1,0 +1,27 @@
+---
+title: Open Data Toolbox
+nonav: true
+---
+
+<h1>Data-Publishing Toolbox</h1>
+
+<hr />
+
+<div class='container'>
+  <div class='row'>
+    {% for tool in site.tools %}
+      <div class="col-lg-4">
+        <div class='card tool-card text-xs-center'>
+          <a href='{{ tool.url }}'>
+            <img src='/assets/screenshots/{{ tool.screenshot }}' class='screenshot'>
+          </a>
+          <div class="card-block">
+            <h2 class='card-title'>
+              {{ tool.title }}
+            </h2>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>

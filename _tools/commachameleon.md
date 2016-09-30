@@ -1,9 +1,9 @@
 ---
-title: Bothan
-site: https://bothan.io
-code: https://github.com/theodi/bothan
-blurb: Make a data-driven dashboard
-screenshot: bothan.png
+title: Comma Chameleon
+site: http://comma-chameleon.io/
+code: https://github.com/theodi/comma-chameleon
+blurb: A desktop CSV editor with validation magic
+screenshot: commachameleon.png
 ---
 
 OK. Moss, what did you have for breakfast this morning? Smarties cereal.While he was eating, did you hear anyone laughing? Like... in the kitchen area? Yes! Yes I did, actually, yes I did. That'd be trouser food!I'll put this over here, with the rest of the fire.See the driver hooks a function by patching the system call table, so its not safe to unload it unless another thread's about to jump in there and do its stuff, and you don't want to end up in the middle of invalid memory!When I started Reynholm Industries, I had just two things in my possession: a dream and 6 million pounds.While he was eating, did you hear anyone laughing? Like... in the kitchen area? Yes! Yes I did, actually, yes I did. That'd be trouser food!
