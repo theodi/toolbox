@@ -13,6 +13,7 @@ nonav: true
       <div class="col-lg-4">
         <div class='card tool-card text-xs-center'>
           <a href='{{ tool.url }}'>
+            <span class="notify-badge">{{tool.status}}</span>
             <img src='/assets/screenshots/{{ tool.screenshot }}' class='screenshot'>
           </a>
           <div class="card-block">
