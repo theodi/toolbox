@@ -21,6 +21,40 @@
           integrity='sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1'
           crossorigin='anonymous'>
     <link rel='stylesheet' href='/assets/application.css' type='text/css' />
+
+    <style>
+
+      .item {
+        position:relative;
+        padding-top:20px;
+        display:inline-block;
+      }
+      .notify-badge{
+        position: absolute;
+        right:-20px;
+        top:-5px;
+        background:red;
+        text-align: center;
+        border-radius: 30px 30px 30px 30px;
+        color:white;
+        padding:3px 10px;
+        font-size:20px;
+        /*-ms-transform: rotate(37deg); !* IE 9 *!*/
+        /*-webkit-transform: rotate(37deg); !* Chrome, Safari, Opera *!*/
+        /*transform: rotate(37deg);*/
+      }
+      .live{
+        background:green;
+      }
+      .beta{
+        background:orangered;
+      }
+      .alpha{
+        background:magenta;
+      }
+
+    </style>
+
     <title>{{ page.title }}</title>
   </head>
 

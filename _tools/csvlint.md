@@ -4,6 +4,7 @@ site: http://csvlint.io
 code: https://github.com/theodi/csvlint
 blurb: Check your CSV files with CSVLint
 screenshot: csvlint.png
+status: beta
 ---
 
 CSV looks easy, but it can be hard to make a CSV file that other people can read easily.
