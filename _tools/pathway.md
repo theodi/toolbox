@@ -4,6 +4,7 @@ site: http://pathway.theodi.org/
 code: https://github.com/theodi/pathway
 blurb: Map your pathway to open data success
 screenshot: pathway.png
+status: live
 ---
 Open data pathway is a self-assessment tool that will help you assess how well your organisation publishes and consumes open data, and identify actions for improvement.
 
