@@ -1,6 +1,6 @@
-# Contributing to {$REPO_NAME}
+# Contributing to the ODI Toolbox
 
-{$REPO_NAME} is open source, and contributions are gratefully accepted! 
+The ODI Toolbox is open source, and contributions are gratefully accepted! 
 Details on how to contribute are below. By participating in this project, you agree to abide by our [Code of Conduct](https://github.com/theodi/bothan/blob/master/.github/CODE_OF_CONDUCT.md).
 
 If this is your first time contributing to the ODI’s codebase you will need to [create a fork of this repository](https://help.github.com/articles/fork-a-repo/).
@@ -23,8 +23,7 @@ To increase your chances of your push being accepted please be aware of the foll
 - Once your PR is published and passes the above checks a repository administrator will review your contribution. Where appropriate comments may be provided and amendments suggested before your PR is merged into Master.
 - Once your PR is accepted you will be granted push access to the repository you have contributed to! Congratulations on joining our community, you’ll no longer need to work from forks.
 
-If you make a contribution to another repository in the Toolbox you will be expected to repeat this process. Read more about that here
-// This is necessary as there is variance across our toolboxes - from different web frameworks (e.g. Bothan [Sinatra] vs CSVlint, Octopub, Pathway and Certificates [Rails]) to different underlying code (Comma Chameleon built on Javascript via the Electron runtime)
+If you make a contribution to another repository in the Toolbox you will be expected to repeat this process. Read more about that [here](https://github.com/theodi/toolbox/blob/master/README.md#push-access).
 
 ## Code Style Guide
 
