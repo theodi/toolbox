@@ -78,12 +78,12 @@ Each tool's README contains instructions to get your Development environment run
 All contributions to the codebase - whether fork or pull request - will be reviewed per the below criteria.
 To increase your chances of your push being accepted please be aware of the following
 - Write [well formed commit messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
-- Follow our style guide recommendations
+- Follow our [style guide recommendations](https://github.com/theodi/toolbox/blob/README.md#code-style-guide)
 - Write tests for all changes (additions or refactors of existing code). 
 - Of the github integrations we use two will be utilised to check appraise your contribution. In order of priority these are
     - Travis ensures that all tests (existing and additions) pass
-    - Travis/Coveralls ensures that overall test coverage for lines of code meets a certain threshold. If this metric dips below what it previously was for the repository you’re pushing to then your PR will be rejected
-    - Gemnasium ensures dependencies are up to date
+    - Coveralls ensures that overall test coverage for lines of code meets a certain threshold. If this metric dips below what it previously was for the repository you’re pushing to then your PR will be rejected
+    - _(Gemnasium ensures dependencies are up to date, but this isn't likely to impact your PR)_
 - Once your PR is published and passes the above checks a repository administrator will review your contribution. Where appropriate comments may be provided and amendments suggested before your PR is merged into Master.
 - Once your PR is accepted you will be granted push access to the repository you have contributed to! Congratulations on joining our community, you’ll no longer need to work from forks.
 
@@ -102,10 +102,10 @@ We follow the same code style conventions as detailed in Github’s [Ruby Style 
 [Github Client](https://help.github.com/desktop/guides/getting-started/): The Github client is a GUI that facilitates some of the operations required for git VCS. It is not as powerful as some of the other options (Gittower, other paid options) but it is free
  
 Feel free to use whatever text editor or IDE you prefer for coding. If you’re using Atom then we’ve found the following packages helpful for working on the toolbox
-* Cucumber
-* Jekyll
-* Pretty JSON
-* RubySyntaxReplacer
+* [Cucumber](https://atom.io/packages/cucumber)
+* [Jekyll](https://atom.io/packages/jekyll) 
+* [Pretty JSON](https://atom.io/packages/pretty-json)
+* [RubySyntaxReplacer](https://atom.io/packages/ruby-syntax-replacer)
 
 #### Setting up your dev environment
 
@@ -123,9 +123,9 @@ We use rbenv as several repos in our Toolbox employ varying versions of ruby and
 * After installing Homebrew it’s advisable to run `brew doctor` to check if any issues occurred during install
 * [Install Rbenv](https://github.com/rbenv/rbenv#homebrew-on-mac-os-x)
 * Then install [ruby-build](https://github.com/rbenv/ruby-build#installing-with-homebrew-for-os-x-users)
-    * (if you encounter errors with the above try: 
+    * (if you encounter errors with the above try:   
       `git clone https://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-build`
-      `brew install ruby-build`
+      `brew install ruby-build`  
       )
 * Almost there - to complete the set up run the following
     * `echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.profile`
@@ -134,13 +134,13 @@ We use rbenv as several repos in our Toolbox employ varying versions of ruby and
        
 To test that rbenv is working correctly on Mac OS run the following  
 `rbenv install 2.1.8*`  
-`* or the ruby version stipulated in the repository you wish to work on`
-`rbenv rehash`
-`ruby -v`
+`* or the ruby version stipulated in the repository you wish to work on`  
+`rbenv rehash`  
+`ruby -v`  
 
 You should now see a different ruby version to the base install on your system (ruby 2.4.0 in the case of MacOS)
 
-Finally install bundle
+Finally install bundle  
 `Gem install bundle`
 
 ##### Rails Development Tools
