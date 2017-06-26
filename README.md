@@ -2,7 +2,7 @@ This repository powers the [ODI Toolbox Website](http://toolbox.theodi.org/). Th
 
 ## Tell Me About The ODI Toolbox
 
-The [ODI Toolbox](http://toolbox.theodi.org/) is intended for organisations working with open data. It’s a suite of open source software that enables publication, assessment of - and collaboration on - open data.
+The [ODI Toolbox](http://toolbox.theodi.org/) is a suite of open source software that enables publication, assessment of - and collaboration on - open data.
  
 The toolbox was developed by the ODI Labs Team. ODI Labs follows the GDS Services Agile development framework. ODI Labs matured(sic) Open Data Pathway and Open Data Certificates to Live status. Both services function as open data Assessment Tools. Several of the other tools developed during the first quarter of 2016 are currently in the beta stage. These data publication prototypes  are intended to help organisations understand what their data is, what they can do with their data and what their users might want. Each app meets a different need. 
 
