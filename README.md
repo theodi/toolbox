@@ -17,9 +17,11 @@ The toolbox was developed by the ODI Labs Team. ODI Labs follows the GDS Service
 
 (To find out more detail about each of the tools, check them out on the [Toolbox Website](http://toolbox.theodi.org/))
 
-The tools of the ODI Toolbox are built to interoperate with other services - including other tools in the suite! Take CSVlint for example. The [CSVlint service](http://csvlint.io/) is a Rails application that provides an online continuous validation service. Octopub integrates this service into published datasets that feature CSV files. The CSVLint service is powered by the [Ruby gem](https://github.com/theodi/csvlint) of the same name, which can be used locally as a command line tool or within any ruby application. The CSVlint gem CSVlint also features in Comma Chameleon - which supports CSV validation within the app - via TravellingRuby.
+The tools of the ODI Toolbox are built to interoperate with other services - including other tools in the suite! Take CSVlint for example. The [CSVlint service](http://csvlint.io/) is a Rails application that provides an online continuous validation service. Octopub integrates with this service - csv datasets published with Octopub are validated against CSVlint and receive a CSV validation badge. 
+
+The CSVLint service is powered by the [Ruby gem](https://github.com/theodi/csvlint) of the same name, which can be used offline and locally as a command line tool or within any ruby application. The CSVlint gem CSVlint also features in Comma Chameleon - which supports CSV validation within the app - via TravellingRuby.
  
-Hopefully this brief example gives a sense of what we’re trying to build with the ODI toolbox - as OSS ecosystem around data collaboration, publication and assessment
+Hopefully this brief example gives a sense of what we’re trying to build with the ODI toolbox - an OSS ecosystem around data collaboration, publication and assessment
  
 (to learn more about ODI’s vision for OSS data tools, check out the [Public Roadmap](https://trello.com/b/2xc7Q0kd/labs-public-toolbox-roadmap) (see below for details), or follow our blog)
 
