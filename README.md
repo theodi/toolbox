@@ -25,7 +25,8 @@ The CSVLint service is powered by the [Ruby gem](https://github.com/theodi/csvli
  
 Hopefully this brief example gives a sense of what we’re trying to build with the ODI toolbox - an OSS ecosystem around data collaboration, publication and assessment
  
-(to learn more about ODI’s vision for OSS data tools, check out the [Public Roadmap](https://trello.com/b/2xc7Q0kd/labs-public-toolbox-roadmap) (see below for details), or follow our blog)
+(to learn more about ODI’s vision for OSS data tools, check out the [Public Roadmap](https://trello.com/b/2xc7Q0kd/labs-public-toolbox-roadmap) (see below for details), or follow our blog)  
+You can also join our gitter channel, to discuss the toolbox with fellow developers [![Gitter](https://badges.gitter.im/theodi/toolbox.svg)](https://gitter.im/theodi/toolbox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
 
 ## Why We Welcome Contributions
 
