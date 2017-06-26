@@ -29,7 +29,7 @@ The Open Data Institute is committed to building a strong, fair, and sustainable
  
 The Toolbox grew out of ODI Labs engagement with the open data software ecosystem. Noticing gaps in the types of data tools available Labs developed MVP experimental products intended to plug those gaps. We hope these provocations get everyone thinking. We’d like for the community working in open data software to either fill the identified gaps in other ways, use our work to continue filling those gaps (even locate as yet unidentified gaps!) or contribute to our tools to improve their utility. 
  
-We look to OSS success stories like Ruby, Github and Adapt and we want to build an ecosystem of OSS tools that support Open Data - like OKFN’s JKAN. We know we can’t do this all by ourselves, nor would we see this as the best way forward - we aspire to build with developments in the ecosystem. We want to build an OSS community around the Toolbox and hope you can be part of it!
+We look to OSS success stories like Ruby, Git and [Adapt](https://github.com/adaptlearning/adapt_framework) and we want to build an ecosystem of OSS tools that support Open Data. We know we can’t do this all by ourselves, nor would we see this as the best way forward - we aspire to build with developments in the ecosystem. We want to build an OSS community around the Toolbox and hope you can be part of it!
  
 We’re focusing on opening the ODI Toolbox to open source contributions to enable users to adapt the tools to their needs by contributing to our code base. We value growing an engaged community to collectively and collaboratively chart a route through our codebase. That way we can identify urgent bug fixes can be applied quickly.
 
@@ -58,7 +58,7 @@ see the next sections for full details
 
 ## Contributing Code
 
-If you’re a developer interested in Open Data familiar with any of the following technologies we’d like to interest you in collaborating on our Toolbox
+If you’re a developer interested in Open Data **and** familiar with any of the following technologies, we’d like to interest you in collaborating on our Toolbox
  
 * Ruby
 * Ruby on Rails
