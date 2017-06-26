@@ -1,3 +1,5 @@
+[![Gitter](https://badges.gitter.im/theodi/toolbox.svg)](https://gitter.im/theodi/toolbox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+ 
 This repository powers the [ODI Toolbox Website](http://toolbox.theodi.org/). This README describes how to contribute to the toolbox.
 
 ## Tell Me About The ODI Toolbox
