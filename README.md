@@ -1,6 +1,6 @@
 [![Gitter](https://badges.gitter.im/theodi/toolbox.svg)](https://gitter.im/theodi/toolbox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
  
-This repository powers the [ODI Toolbox Website](http://toolbox.theodi.org/). This README describes how to contribute to the toolbox.
+This repository powers the [ODI Toolbox Website](http://toolbox.theodi.org/), a suite of open data applications. This README describes how to contribute to the Toolbox. There is an additional section in this README on [how to contribute to this repository](https://github.com/theodi/toolbox#contributing-to-the-ODI-toolbox-website) - to make amendments or additions to the aforementioned website. 
 
 ## Tell Me About The ODI Toolbox
 
@@ -149,3 +149,18 @@ Finally install bundle
 ##### Rails Development Tools
  
 Ruby on Rails additionally requires you install and run Redis (Postgres) and MySQL servers. If you already have these on your development machine you can skip their respective install steps in this [following guide](https://gorails.com/setup/osx/10.12-sierra)
+
+## Contributing to the ODI Toolbox Website
+
+The ODI Toolbox website is powered by Jekyll
+
+### Development: Running the full application locally
+
+`bundle install`  
+`jekyll serve`
+
+Navigate to the `localhost:$PORT` which Jeykll generates.  
+
+### Tests
+
+This repository doesn't have any TDD infrastructure
