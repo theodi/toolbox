@@ -1,11 +1,13 @@
 # Contributing to the ODI Toolbox
 
 The ODI Toolbox is open source, and contributions are gratefully accepted! 
-Details on how to contribute are below. By participating in this project, you agree to abide by our [Code of Conduct](https://github.com/theodi/bothan/blob/master/.github/CODE_OF_CONDUCT.md).
+Details on how to contribute to **this repository** are below. To contribute to a given application from the Toolbox please refer to the CONTRIBUTING.md file in the `.github/CONTRIBUTING.md` folder in that Tool's github repository. 
+
+By participating in this project, you agree to abide by our [Code of Conduct](https://github.com/theodi/toolbox/blob/master/.github/CODE_OF_CONDUCT.md).
 
 If this is your first time contributing to the ODI’s codebase you will need to [create a fork of this repository](https://help.github.com/articles/fork-a-repo/).
 
-Follow the readme instructions to get your Development environment running locally
+Consult our [Getting Started Guide](https://github.com/theodi/toolbox/wiki/Developers-Guide:-Getting-Started) (if necessary) and then follow the [readme instructions](https://github.com/theodi/toolbox/blob/master/README.md#development) to get your Development environment running locally
 
 Ensure that the tests pass before working on your contribution
 
