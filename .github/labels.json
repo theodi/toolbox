@@ -1,0 +1,130 @@
+[
+  {
+    "name": "admin:duplicate",
+    "color": "cccccc"
+  },
+  {
+    "name": "admin:relocate",
+    "color": "cccccc"
+  },
+  {
+    "name": "admin:specification",
+    "color": "cccccc"
+  },
+  {
+    "name": "admin:wontfix",
+    "color": "cccccc"
+  },
+  {
+    "name": "f:feature-request",
+    "color": "cc317c"
+  },
+  {
+    "name": "f:help-wanted",
+    "color": "cc317c"
+  },
+  {
+    "name": "admin:up-for-grabs",
+    "color": "cccccc"
+  },
+  {
+    "name": "f:feature-request",
+    "color": "cc317c"
+  },
+  {
+    "name": "f:help-wanted",
+    "color": "cc317c"
+  },
+  {
+    "name": "f:question",
+    "color": "cc317c"
+  },
+  {
+    "name": "fn:assessment",
+    "color": "c2e0c6"
+  },
+  {
+    "name": "fn:data-publishing",
+    "color": "c2e0c6"
+  },
+  {
+    "name": "fn:airbrake",
+    "color": "c2e0c6"
+  },
+  {
+    "name": "fn:Development",
+    "color": "0e8a16"
+  },
+  {
+    "name": "fn:Documentation",
+    "color": "0e8a16"
+  },
+  {
+    "name": "fn:Interface",
+    "color": "0e8a16"
+  },
+  {
+    "name": "fn:Localisation",
+    "color": "0e8a16"
+  },
+  {
+    "name": "fn:Notification",
+    "color": "0e8a16"
+  },
+  {
+    "name": "fn:Operations",
+    "color": "0e8a16"
+  },
+  {
+    "name": "fn:Performance",
+    "color": "0e8a16"
+  },
+  {
+    "name": "fn:questionnaire",
+    "color": "c2e0c6"
+  },
+  {
+    "name": "fn:reporting",
+    "color": "c2e0c6"
+  },
+  {
+    "name": "fn:schema",
+    "color": "c2e0c6"
+  },
+  {
+    "name": "fn:sharing",
+    "color": "c2e0c6"
+  },
+  {
+    "name": "fn:Security",
+    "color": "0e8a16"
+  },
+  {
+    "name": "fn:Styling",
+    "color": "0e8a16"
+  },
+  {
+    "name": "fn:Usability",
+    "color": "0e8a16"
+  },
+  {
+    "name": "fn:UserManagement",
+    "color": "0e8a16"
+  },
+  {
+    "name": "i:enhancement",
+    "color": "1d76db"
+  },
+  {
+    "name": "i:optimisation",
+    "color": "1d76db"
+  },
+  {
+    "name": "problem:bug",
+    "color": "fc2929"
+  },
+  {
+    "name": "status:requires-replication",
+    "color": "ededed"
+  }
+]
