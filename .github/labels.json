@@ -21,163 +21,163 @@
   },
   {
     "name": "env:IE",
-    "color": "d4c5f9"
+    "color": "2f529f"
   },
   {
     "name": "env:linux",
-    "color": "d4c5f9"
+    "color": "2f529f"
   },
   {
     "name": "env:OSX",
-    "color": "d4c5f9"
+    "color": "2f529f"
   },
   {
     "name": "env:windows",
-    "color": "d4c5f9"
+    "color": "2f529f"
   },
   {
     "name": "est:major",
-    "color": "bfd4f2"
+    "color": "FF6700"
   },
   {
     "name": "est:minor",
-    "color": "bfd4f2"
+    "color": "FF6700"
   },
   {
     "name": "est:moderate",
-    "color": "bfd4f2"
+    "color": "FF6700"
   },
   {
     "name": "f:enhancement-suggestion",
-    "color": "cc317c"
+    "color": "e6007c"
   },
   {
     "name": "f:help-wanted",
-    "color": "cc317c"
+    "color": "e6007c"
   },
   {
     "name": "f:question",
-    "color": "cc317c"
+    "color": "e6007c"
   },
   {
     "name": "fn:airbrake",
-    "color": "c2e0c6"
+    "color": "1dd3a7"
   },
   {
     "name": "fn:assessment",
-    "color": "c2e0c6"
+    "color": "1dd3a7"
   },
   {
     "name": "fn:data-publishing",
-    "color": "c2e0c6"
+    "color": "1dd3a7"
   },
   {
     "name": "fn:Development",
-    "color": "0e8a16"
+    "color": "0dbc37"
   },
   {
     "name": "fn:distribution",
-    "color": "c2e0c6"
+    "color": "1dd3a7"
   },
   {
     "name": "fn:Documentation",
-    "color": "0e8a16"
+    "color": "0dbc37"
   },
   {
     "name": "fn:Interface",
-    "color": "0e8a16"
+    "color": "0dbc37"
   },
   {
     "name": "fn:Localisation",
-    "color": "0e8a16"
+    "color": "0dbc37"
   },
   {
     "name": "fn:Notification",
-    "color": "0e8a16"
+    "color": "0dbc37"
   },
   {
     "name": "fn:Operations",
-    "color": "0e8a16"
+    "color": "0dbc37"
   },
   {
     "name": "fn:Performance",
-    "color": "0e8a16"
+    "color": "0dbc37"
   },
   {
     "name": "fn:questionnaire",
-    "color": "c2e0c6"
+    "color": "1dd3a7"
   },
   {
     "name": "fn:reporting",
-    "color": "c2e0c6"
+    "color": "1dd3a7"
   },
   {
     "name": "fn:schema",
-    "color": "c2e0c6"
+    "color": "1dd3a7"
   },
   {
     "name": "fn:Security",
-    "color": "0e8a16"
+    "color": "0dbc37"
   },
   {
     "name": "fn:sharing",
-    "color": "c2e0c6"
+    "color": "1dd3a7"
   },
   {
     "name": "fn:Styling",
-    "color": "0e8a16"
+    "color": "0dbc37"
   },
   {
     "name": "fn:Usability",
-    "color": "0e8a16"
+    "color": "0dbc37"
   },
   {
     "name": "fn:UserManagement",
-    "color": "0e8a16"
+    "color": "0dbc37"
   },
   {
     "name": "fn:validation",
-    "color": "c2e0c6"
+    "color": "1dd3a7"
   },
   {
     "name": "i:enhancement",
-    "color": "1d76db"
+    "color": "2254F4"
   },
   {
     "name": "i:optimisation",
-    "color": "1d76db"
+    "color": "2254F4"
   },
   {
     "name": "i:tests",
-    "color": "1d76db"
+    "color": "2254F4"
   },
   {
     "name": "p:high",
-    "color": "fbca04"
+    "color": "f9b626"
   },
   {
     "name": "p:low",
-    "color": "fbca04"
+    "color": "f9b626"
   },
   {
     "name": "p:medium",
-    "color": "fbca04"
+    "color": "f9b626"
   },
   {
     "name": "problem:bug",
-    "color": "ee0701"
+    "color": "D60303"
   },
   {
     "name": "s:critical",
-    "color": "d93f0b"
+    "color": "d73058"
   },
   {
     "name": "s:moderate",
-    "color": "d93f0b"
+    "color": "d73058"
   },
   {
     "name": "s:serious",
-    "color": "d93f0b"
+    "color": "d73058"
   },
   {
     "name": "st:ready",
@@ -187,3 +187,4 @@
     "name": "st:requires-replication",
     "color": "ededed"
   }
+]
