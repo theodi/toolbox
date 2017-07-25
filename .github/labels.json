@@ -168,19 +168,15 @@
     "color": "ee0701"
   },
   {
-    "name": "s:acute",
-    "color": "d93f0b"
-  },
-  {
     "name": "s:critical",
     "color": "d93f0b"
   },
   {
-    "name": "s:ordinary",
+    "name": "s:moderate",
     "color": "d93f0b"
   },
   {
-    "name": "s:trivial",
+    "name": "s:serious",
     "color": "d93f0b"
   },
   {
