@@ -1,38 +1,51 @@
+[
   {
-    "name": "admin:duplicate",
+    "name": "a:duplicate",
     "color": "cccccc"
   },
   {
-    "name": "admin:refactor",
+    "name": "a:refactor",
     "color": "cccccc"
   },
   {
-    "name": "admin:relocate",
+    "name": "a:relocate",
     "color": "cccccc"
   },
   {
-    "name": "admin:specification",
+    "name": "a:specification",
     "color": "cccccc"
   },
   {
-    "name": "admin:up-for-grabs",
+    "name": "a:up-for-grabs",
     "color": "cccccc"
   },
   {
-    "name": "e:IE",
+    "name": "env:IE",
     "color": "d4c5f9"
   },
   {
-    "name": "e:linux",
+    "name": "env:linux",
     "color": "d4c5f9"
   },
   {
-    "name": "e:OSX",
+    "name": "env:OSX",
     "color": "d4c5f9"
   },
   {
-    "name": "e:windows",
+    "name": "env:windows",
     "color": "d4c5f9"
+  },
+  {
+    "name": "est:major",
+    "color": "bfd4f2"
+  },
+  {
+    "name": "est:minor",
+    "color": "bfd4f2"
+  },
+  {
+    "name": "est:moderate",
+    "color": "bfd4f2"
   },
   {
     "name": "f:feature-request",
@@ -44,14 +57,6 @@
   },
   {
     "name": "f:question",
-    "color": "cc317c"
-  },
-  {
-    "name": "feedback:feature-request",
-    "color": "cc317c"
-  },
-  {
-    "name": "feedback:question",
     "color": "cc317c"
   },
   {
@@ -143,10 +148,47 @@
     "color": "1d76db"
   },
   {
+    "name": "i:tests",
+    "color": "1d76db"
+  },
+  {
+    "name": "p:high",
+    "color": "fbca04"
+  },
+  {
+    "name": "p:low",
+    "color": "fbca04"
+  },
+  {
+    "name": "p:medium",
+    "color": "fbca04"
+  },
+  {
     "name": "problem:bug",
     "color": "ee0701"
   },
   {
-    "name": "status:requires-replication",
+    "name": "s:acute",
+    "color": "d93f0b"
+  },
+  {
+    "name": "s:critical",
+    "color": "d93f0b"
+  },
+  {
+    "name": "s:ordinary",
+    "color": "d93f0b"
+  },
+  {
+    "name": "s:trivial",
+    "color": "d93f0b"
+  },
+  {
+    "name": "st:ready",
+    "color": "ededed"
+  },
+  {
+    "name": "st:requires-replication",
     "color": "ededed"
   }
+]
