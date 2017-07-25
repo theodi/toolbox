@@ -48,7 +48,7 @@
     "color": "bfd4f2"
   },
   {
-    "name": "f:feature-request",
+    "name": "f:enhancement-suggestion",
     "color": "cc317c"
   },
   {
@@ -187,4 +187,3 @@
     "name": "st:requires-replication",
     "color": "ededed"
   }
-]
